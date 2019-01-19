@@ -1,5 +1,5 @@
 # node_srv
-node server tutorial
+node tutorial for simple rest api
 
 # start
 first run mongodb: mongod
